@@ -1,3 +1,5 @@
 title: nhsx.io theme
 description: nhsx.io is a theme for GitHub Pages.
 remote_theme: nhsx/nhsx-io-theme
+gems:
+- jekyll-seo-tag
