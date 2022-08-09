@@ -1,15 +1,15 @@
-# The nhsx.io theme
+# The nhs.io theme test
 
-**nhsx.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://nhsx.github.io/nhsx-io-theme/) to see what it looks like
+**nhs.io** is a Jekyll theme for GitHub Pages. You can [preview the theme](https://danjscho.github.io/nhs-io-theme-test/) to see what it looks like
 
 ## Usage
 
-To use the nhsx.io theme:
+To use the nhs.io theme:
 
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: nhsx/nhsx-io-theme
+    remote_theme: danjscho/nhs-io-theme-test
     ```
 
 ## Customizing
