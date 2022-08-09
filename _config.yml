@@ -1,5 +1,5 @@
-title: nhsx.io theme
-description: nhsx.io is a theme for GitHub Pages.
+title: nhs.io theme
+description: nhs.io is a theme for GitHub Pages
 remote_theme: danjscho/nhs-io-theme-test
 plugins:
   - jekyll-seo-tag
